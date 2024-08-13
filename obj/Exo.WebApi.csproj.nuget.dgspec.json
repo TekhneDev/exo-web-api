@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carla Mariana\\Desktop\\SENAI ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\temp\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carla Mariana\\Desktop\\SENAI ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\temp\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carla Mariana\\Desktop\\SENAI ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\temp\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\Carla Mariana\\Desktop\\SENAI ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\temp\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Carla Mariana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carla Mariana\\Desktop\\SENAI ATIVIDADE\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\temp\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

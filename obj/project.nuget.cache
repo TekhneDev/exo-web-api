@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Ill198+/kxMx3Jr8J3zxdsBcaZeORmsQSuvT/ECJj7sjSMpHTWM9FlFesCqTGGLwmByIq3Ei45YgEQtvpwNrA==",
+  "dgSpecHash": "h/GBqxe28vrRQS7sRRFgJsaqgmh/pwG1pb+TGfeZeZuAWpdb+5m8EkfwT8sVU7FfsGgv7i+b05n4zEjddHu0JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carla Mariana\\Desktop\\SENAI ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\temp\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carla Mariana\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Carla Mariana\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
